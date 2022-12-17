@@ -6,3 +6,5 @@ asdfilhsalf
 some content
 new
 -----------------------
+
+new master
